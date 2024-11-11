@@ -37,3 +37,6 @@ Step 3: Complete the remaining worksheets which applicability is not based on th
 3. The grey boxes with a dash are cells in which a selection can be made. Click on the dropdown and make your selection (e.g., Yes/No, or PASS/FAIL/NA)
 4. The green boxes marked "(ref)" suggest that you can provide the name of an entry of a different worksheet as a reference. 
 5. The algorithms of Decision Trees are not implemented in this template, therefore you must ensure the validity of your selected path through the decisions trees (i.e. validate with the standard) and provide the necessary justification.
+
+## Copyright Notice
+Copyright 2024 Zealience GmbH. This work is openly licensed via CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
