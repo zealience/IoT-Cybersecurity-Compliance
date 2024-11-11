@@ -31,6 +31,11 @@ Step 2: Based on the assets documented and the applicable requirements identifie
 
 Step 3: Complete the remaining worksheets which applicability is not based on the worksheets Overview-*. Certain requirements such as SUM-* or CCK-*  require to be documented regardless of the conditions met by certain assets documented in Overview-*.
 
+### Verification
+Name: Template_EN18031-1_TechnicalDoc.v1.xlsx
+Size: 155163 bytes (151 KiB)
+SHA256: f14febcab545301d417c6200a792aa2f765c8d044a7b18c0e93bc383d683d065
+
 ### Notes
 1. To be usable, this template requires to own a copy of the standard EN18031-1.
 2. There is no connection made between the answers to questions and the other worksheets. For example, answering Yes or No to questions will not have any effects in other parts of this template. 
