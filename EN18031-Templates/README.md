@@ -33,7 +33,9 @@ Step 3: Complete the remaining worksheets which applicability is not based on th
 
 ### Verification
 Name: Template_EN18031-1_TechnicalDoc.v1.xlsx
+
 Size: 155163 bytes (151 KiB)
+
 SHA256: f14febcab545301d417c6200a792aa2f765c8d044a7b18c0e93bc383d683d065
 
 ### Notes
