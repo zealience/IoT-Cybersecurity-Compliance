@@ -39,11 +39,10 @@ Step 3: Complete the remaining worksheets which applicability is not based on th
 5. The algorithms of Decision Trees are not implemented in this template, therefore you must ensure the validity of your selected path through the decisions trees (i.e. validate with the standard) and provide the necessary justification.
 
 ## Verification
-Name: Template_EN18031-1_TechnicalDoc.v1.xlsx
-
-Size: 155163 bytes (151 KiB)
-
-SHA256: f14febcab545301d417c6200a792aa2f765c8d044a7b18c0e93bc383d683d065
+| Name     | Size    | SHA256    |
+| :---     |  :---   | :---      |
+| Template_EN18031-1_TechnicalDoc.v1.xlsx | 155.163 bytes | f14febcab545301d417c6200a792aa2f765c8d044a7b18c0e93bc383d683d065 |
+| Template_EN18031-1_TechnicalDoc.v1.1.xlsx | 161.025 bytes | 5b57e9d4bf7ca9b45320373c32f50c0e3a27f191743ace4e6ac35f0ef9270d27 |
 
 ## Copyright Notice
 Copyright 2024 Zealience GmbH. This work is openly licensed via CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
