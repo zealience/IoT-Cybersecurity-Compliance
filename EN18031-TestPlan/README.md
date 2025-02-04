@@ -44,4 +44,4 @@ Given the wide range of information to be assessed, Zealience suggests using pre
 ## Verification
 | Name     | Size    | SHA256    |
 | :---     |  :---   | :---      |
-| EN18031_1_2_TestPlan_Template.docx | 228.121 bytes | 7f8fb49efc09c66c71b447e2178a3b682bc09a612e6e0f0eb36b8d2bf1e59a64 |
+| EN18031_1_2_TestPlan_Template_v1_0.docx | 228.121 bytes | 353d683ba8c6a04fbc49a03073d84c87cf897188b292f46555e92133d585b7cf |
