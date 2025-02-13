@@ -1,4 +1,4 @@
-# IoT-Cybersecurity-Compliance
+# RED Cybersecurity Compliance Self-Assessment Resources
 ![Zealience Resources Hero image](https://github.com/zealience/IoT-Cybersecurity-Compliance/blob/main/misc/HeroResources.png?raw=true)
 
 Welcome to the Zealience GitHub repository!
