@@ -1,5 +1,5 @@
 # EN18031 Resources
-![Zealience Resources Hero image](https://github.com/zealience/IoT-Cybersecurity-Compliance/blob/main/misc/HeroResources.png?raw=true)
+Here, we offer supplementary documents to help you effectively use and fill in the Technical Documentation template available in 📂EN18031-Templates.
 
 ## Table of Content
 1. [Description](#desc)
