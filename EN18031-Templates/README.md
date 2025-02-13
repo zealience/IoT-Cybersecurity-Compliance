@@ -57,4 +57,5 @@ As mentioned, completing the Technical Documentation is an iterative process and
 | Template_EN18031_TechnicalDoc.v1.2.xlsx | 229.907 bytes | b3fc178e4db86268bfd553b815670725f375624d051c2d3be2274cf0638841af |
 
 ## Copyright Notice <a name='copy'></a>
-Copyright 2024 Zealience GmbH. This work is openly licensed via CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Copyright 2025 Zealience GmbH. This work is openly licensed via CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+https://zealience.com
