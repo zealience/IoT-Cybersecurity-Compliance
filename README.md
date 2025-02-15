@@ -3,7 +3,7 @@
 
 Welcome to the Zealience GitHub repository!
 
-In this repository, you will find resources to assist you with IoT cybersecurity compliance, primarily focusing on compliance with the EU RED Delegated Act (DA) and its harmonized standards, hEN 18031. These resources are designed to support manufacturers of connected products in various compliance activities, including the creation of Technical Documentation and conformance assessments.
+In this repository, you will find resources to assist you with IoT cybersecurity compliance, primarily focusing on compliance with the EU RED Delegated Act (DA) and its harmonized standards, hEN 18031 (EN 18031). These resources are designed to support manufacturers of connected products in various compliance activities, including the creation of Technical Documentation and conformance assessments.
 
 ## Table of Contents
 1. [Available Contents](#contents)
