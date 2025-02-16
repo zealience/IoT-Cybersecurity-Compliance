@@ -27,9 +27,12 @@ In this repository, you will find the following contents:
 
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to hEN 18031. To start, we currently offer the following resource that you may find useful:
- - What Are Network Assets?
-    -  https://zealience.com/resources/what-are-network-assets
-    -  This article helps you identify network assets in your device
+- What Are Network Assets?
+    - https://zealience.com/resources/what-are-network-assets
+    - This article helps you identify network assets in your device
+- What Are External Interfaces?
+    - https://zealience.com/resources/what-are-external-interfaces
+    - This article explains what external interfaces and helps you identify them in your device
 
  ## A Little Bit About Us <a name='us'></a>
 Zealience is a German startup pioneering software that automates the generation of technical documentation for hEN 18031. Many of our customers have successfully utilized our solution to prepare their technical documentation. If you're interested in learning more about our software, please reach out for a demo! Visit us at zealience.com.
