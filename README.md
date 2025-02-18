@@ -30,6 +30,9 @@ We are planning to continuously add more documentation on our website to assist 
 - What Are Network Assets?
     - https://zealience.com/resources/what-are-network-assets
     - This article helps you identify network assets in your device
+- What Are Security Assets?
+    - https://zealience.com/resources/what-are-security-assets
+    - This article helps you identify security assets in your device
 - What Are External Interfaces?
     - https://zealience.com/resources/what-are-external-interfaces
     - This article explains what external interfaces and helps you identify them in your device
