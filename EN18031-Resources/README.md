@@ -31,7 +31,7 @@ These workflows enable you to:
 At each step, the workflows indicates what information needs to be captured in your Technical Documentation. In case you have not started your Technical Documentation, you can use our template available in this repo.
 
 ## Key take-aways <a name='key'></a>
-1. It all starts with the assets: You need to identify and classify your assets in order to apply the right requirements. Regarding how to identify assets, please read our articles on the [Zealience Resource Hubs](https://zealience.com/resources/articles).
+1. It all starts with the assets: You need to identify and classify your assets in order to apply the right requirements. Regarding how to identify assets, please read our articles on the [Zealience Resource Hubs](https://zealience.com/resource-hub/articles).
 2. You cannot scope upfront: As depicted in the workflows, the identification of applicable requirements calls for multiple iterations over assets and mechanisms.
 3. Everything needs to be documented: Even when a requirement is not applicable, you still need to document and justify why it is not so.
 
@@ -43,7 +43,7 @@ At each step, the workflows indicates what information needs to be captured in y
    - Whenever you reach numbers (in black circles), you need to refer to the designated box on the right side and document accordingly.
    
 ## Note <a name='note'></a>
-In line with the standard, the workflow assumes that the assets are already identified. If you need help with their identification, you can read our guidance on the [Zealience Resource Hubs](https://zealience.com/resources/articles).
+In line with the standard, the workflow assumes that the assets are already identified. If you need help with their identification, you can read our guidance on the [Zealience Resource Hubs](https://zealience.com/resource-hub/articles).
 
 If you are looking for software to automate these workflows, have a look at our [Zealience website](https://zealience.com). 
 
