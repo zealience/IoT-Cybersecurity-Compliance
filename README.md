@@ -28,13 +28,13 @@ In this repository, you will find the following contents:
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to hEN 18031. To start, we currently offer the following resource that you may find useful:
 - What Are Network Assets?
-    - https://zealience.com/resources/what-are-network-assets
+    - https://zealience.com/resource-hub/what-are-network-assets
     - This article helps you identify network assets in your device
 - What Are Security Assets?
-    - https://zealience.com/resources/what-are-security-assets
+    - https://zealience.com/resource-hub/what-are-security-assets
     - This article helps you identify security assets in your device
 - What Are External Interfaces?
-    - https://zealience.com/resources/what-are-external-interfaces
+    - https://zealience.com/resource-hub/what-are-external-interfaces
     - This article explains what external interfaces and helps you identify them in your device
 
  ## A Little Bit About Us <a name='us'></a>
