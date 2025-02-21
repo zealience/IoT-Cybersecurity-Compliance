@@ -35,7 +35,7 @@ We are planning to continuously add more documentation on our website to assist 
     - This article helps you identify security assets in your device
 - What Are Privacy Assets?
     - https://zealience.com/resource-hub/what-are-privacy-assets
-    - This article helps you identify security assets in your device
+    - This article helps you identify privacy assets in your device
 - What Are External Interfaces?
     - https://zealience.com/resource-hub/what-are-external-interfaces
     - This article explains what external interfaces and helps you identify them in your device
