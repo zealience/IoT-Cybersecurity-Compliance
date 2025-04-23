@@ -1,9 +1,10 @@
-# Scoping conditions for requirements in relation to assets of EN 18031-1 and EN 18031-2
+# Scoping conditions for requirements in relation to assets of hEN 18031-1, -2 and -3
+![Zealience Resources Hero image](https://github.com/zealience/IoT-Cybersecurity-Compliance/blob/main/misc/Cheatsheet-image.png?raw=true)
 
 ## Introduction:
-This table helps identify the applicable requirements of EN 18031-1 and -2 for each asset type. When applying the standards, manufacturers have to identify the applicability of requirements for each asset. However, this is challenging due to the complexity of the standards. This table can be used as a cheat sheet to understand the interplay between the requirements and assets, allowing manufacturers to quickly identify what needs to be documented and to what extent.
+This table helps identify the applicable requirements of EN 18031-1, -2 and -3 for each asset type (security, network, privacy, financial). When applying the standards, manufacturers of radio equipment have to identify the applicability of requirements for each asset. However, this is challenging due to the complexity of the standards. This table can be used as a cheat sheet to understand the interplay between the requirements and assets, allowing manufacturers to quickly identify what needs to be documented and to what extent.
 
-(Some of the requirements of the EN 18031 standards are to be applied to an equipment's assets, while others are to be applied to security mechanisms (e.g. authentication mechanisms). The scope of this work is on those to be applied to security/privacy/network assets.)
+(Some of the requirements of the EN 18031 standards are to be applied to an equipment's assets, while others are to be applied to security mechanisms (e.g. authentication mechanisms). The scope of this work is on those to be applied to security/privacy/network/financial assets.)
 
 ## We propose the following definitions:
 
@@ -39,14 +40,15 @@ Examples:
 ## How to use the table "Scoping Conditions":
 
 * You can use this table per asset type: For each asset type, browse through its column to see what are the scoping condition(s) for a given requirement. For example, a personal information that is confidential and persistently stored on the equipment is in scope of SSM-3.
-* You can use this table per requirement: For each requirement, browse through its row to see the scoping condition(s) for each asset type. For example, for the requirement SSM-3, only confidential personal information/privacy function configuration/security parameter/network function configuration are is scope.
+* You can use this table per requirement: For each requirement, browse through its row to see the scoping condition(s) for each asset type. For example, for the requirement SSM-3, only confidential assets are is scope.
 
 ## Notes:
-* Some requirements are specific to the assets of either EN 18031-1 or EN 18031-2. In this case, the cell is greyed with the mention "NA for EN 18031-X". For example, the requirement ACM-3 is specific to EN 18031-2 and therefore the cells of the network assets are marked "NA for EN 18031-1".
+* Some requirements are specific to the assets of EN 18031-1, -2 or -3. In this case, the cell is greyed with the mention "NA for EN 18031-X". For example, the requirement ACM-3 is specific to EN 18031-2 and therefore the cells of the network assets are marked "NA for EN 18031-1" (also for financial assets).
 * Some requirements are only relevant to specific assets. For example, ACM-3 may only be applicable to privacy functions which "enable children to access external content" and the "children's access [to those functions] is managed by access control mechanism per ACM-1". There are also requirements that are not relevant to any of the assets, since assets are out of scope. For example, the requirement AUM-2 is only applicable to authentication mechanisms (required per AUM-1-1 and AUM-1-2). In such cases, the assets' cells are greyed out with the mention "(asset out of scope)".
 
 ## Verification
 | Name     | Size    | SHA256    |
 | :---     |  :---   | :---      |
 | CheatSheet_EN18031_TableScopingConditions_v1.0.xlsx | 36.056 bytes | 0c0bcd71d0aca614519ac36ec3d8d70ddd50af38e674aab35d6cbff2150679f5 |
+| CheatSheet_EN18031_TableScopingConditions_v1.1.xlsx | 38.551 bytes | b2b4c10294fb0f38a0c5b789c7094f8ee787b54633c19ee31ae92e2fe7319b24 |
 
