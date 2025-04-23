@@ -20,7 +20,7 @@ In this repository, you will find the following contents:
 - Complementary documents to assist you in utilizing and completing the Technical Documentation template available in EN18031-Templates     
 
 📂 **EN18031-Templates**
-- Templates for hEN 18031-1 and -2 Technical Documentation
+- Templates for hEN 18031-1, -2 and -3 Technical Documentation
 
 📂 **EN18031-TestPlan**
 - Templates for hEN 18031-1 and -2 Test Plans, which will aid you in your assessment and testing procedures
@@ -43,4 +43,4 @@ We are planning to continuously add more documentation on our website to assist 
  ## A Little Bit About Us 😊 <a name='us'></a>
 Zealience is a German startup pioneering software that automates the generation of technical documentation for hEN 18031. Many of our customers have successfully utilized our solution to prepare their technical documentation. If you're interested in learning more about our software, please reach out for a demo! Visit us at zealience.com.
 
-Dr. Guillaume Dupont is a co-founder of Zealience. He holds a PhD in IoT cybersecurity. As a former Senior Security Expert at UL Solutions, he helped IoT manufacturers prepare for the RED DA by performing evaluations against product security standards such as ETSI EN 303 645 and	IEC 62443-4-2. He has contributed to the drafting of EN 18031 and also trained a Notify Body	for RED DA assessments. He previously worked at Forescout on automotive security and developed intrusion detection systems for in-vehicle networks. He is also a seasoned IoT vulnerability researcher and disclosed CVEs found in medical devices to Siemens Healthineers. His research on IoT security led him to obtain a US patent: He invented a novel approach to enhance the	accuracy of IoT device classification leveraging machine learning algorithms ([US20220353153](https://patents.google.com/patent/US20220353153A1/en?oq=US20220353153)).
+Dr. Guillaume Dupont is a co-founder of Zealience. He holds a PhD in IoT cybersecurity. As a former Senior Security Expert at UL Solutions, he helped IoT manufacturers prepare for the RED DA by performing evaluations against product security standards such as ETSI EN 303 645 and	IEC 62443-4-2. He has contributed to the drafting of EN 18031 and also trained a Notify Body	for RED DA assessments. He previously worked at Forescout on automotive security and developed intrusion detection systems for in-vehicle networks. He is also a seasoned IoT vulnerability researcher and disclosed [CVEs found in medical devices to Siemens Healthineers](https://www.siemens-healthineers.com/support-documentation/security-advisory). His research on IoT security led him to obtain a US patent: He invented a novel approach to enhance the	accuracy of IoT device classification leveraging machine learning algorithms ([US20220353153](https://patents.google.com/patent/US20220353153A1/en?oq=US20220353153)).
