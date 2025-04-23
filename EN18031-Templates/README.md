@@ -28,9 +28,12 @@ This template consists of different worksheets (or tabs) organized as follows:
 - **Overview-SecAsset, Overview-NetAsset, Overview-PrivAsset, Overview-FinAsset**: Lists of all the security/network/privacy/financial assets contained in the equipment. For each asset, you can provide an indication whether certain conditions are met (e.g., whether the asset is accessible over a network interface). This helps to identify whether an asset is in scope of a given requirement (e.g., when an asset is accessible over a network interface, it is in scope of requirement GEC-2 and GEC-3). See Note 2 below for an explanation of the term "asset in scope of requirement".
 
 - **Remaining worksheets**: Contain the Required Information for the requirements of the standards. For example, the worksheet **AUM-1-1.ACM** contains the Required Information for the identifier [E.Info.AUM-1-1.ACM].
-Note 1: Some worksheets may contain information for more than one identifier. For example, **RLM-1** contains information for both [E.Info.RLM-1.NetworkInterface] and [E.Info.RLM-1.RLM].
-Note 2: Yes, there are many tabs! However, this is due to EN 18031 standards requiring a lot of information and imposing specific identifiers. We provide one tab for each category of information expected by the requirements. For example, ACM-1 has one tab per asset type. This allows to format the information in tables and use the expected identifiers.
-Note 3: In order to navigate easily across the many worksheets, we recommend making use of the hyperlinks in TableContent and the other worksheets (see top left, Navigation).
+
+**Note 1**: Some worksheets may contain information for more than one identifier. For example, **RLM-1** contains information for both [E.Info.RLM-1.NetworkInterface] and [E.Info.RLM-1.RLM].
+
+**Note 2**: Yes, there are many tabs! However, this is due to EN 18031 standards requiring a lot of information and imposing specific identifiers. We provide one tab for each category of information expected by the requirements. For example, ACM-1 has one tab per asset type. This allows to format the information in tables and use the expected identifiers.
+
+**Note 3**: In order to navigate easily across the many worksheets, we recommend making use of the hyperlinks in TableContent and the other worksheets (see top left, Navigation).
 
 ## Instructions / How to use <a name='instruction'></a>
 The completion of the Technical Documentation is an iterative process and will likely require the user to revisit and update the same pages multiple times.
