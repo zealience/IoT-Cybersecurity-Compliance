@@ -14,7 +14,7 @@ In this repository, you will find resources to assist you with IoT cybersecurity
 In this repository, you will find the following contents:
 
 📂 **EN18031-CheatSheets**
-- Cheat sheets to help you identify the applicable requirements of EN 18031-1 and -2 for each asset type
+- Cheat sheets to help you identify the applicable requirements of hEN 18031-1, -2 and -3 for each asset type (security, network, privacy and financial)
   
 📂 **EN18031-Resources**
 - Complementary documents to assist you in utilizing and completing the Technical Documentation template available in EN18031-Templates     
