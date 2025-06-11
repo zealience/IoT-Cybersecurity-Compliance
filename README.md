@@ -25,6 +25,9 @@ In this repository, you will find the following contents:
 📂 **EN18031-TestPlan**
 - Templates for hEN 18031-1 and -2 Test Plans, which will aid you in your assessment and testing procedures
 
+## Open-source Script to Automate GEC-1 Documentation <a name='gec-1'></a>
+GEC-1 mandates comprehensive documentation of software and hardware components and their associated vulnerabilities. For each software component and vulnerability, manufacturers must document GEC-1 Decision Tree paths, results and justifications. When it is common to have more than 2000 vulnerabilities in an IoT device, it is imperative that you automate the documentation work. This is why we developed and open-sourced our script, [en18031-vulnerability-documentation](https://github.com/zealience/en18031-vulnerability-documentation).
+
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to hEN 18031. To start, we currently offer the following resource that you may find useful:
 - What Are Network Assets?
