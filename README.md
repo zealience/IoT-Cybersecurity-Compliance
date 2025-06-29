@@ -30,6 +30,9 @@ GEC-1 mandates comprehensive documentation of software and hardware components a
 
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to hEN 18031. To start, we currently offer the following resource that you may find useful:
+- 🆕GEC-1: Everything You Need to Know to Ace It
+    - https://zealience.com/resource-hub/gec-1-everything-you-need-to-know
+    - This article provides actionable strategies to meet GEC-1
 - What Are Network Assets?
     - https://zealience.com/resource-hub/what-are-network-assets
     - This article helps you identify network assets in your device
