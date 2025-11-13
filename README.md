@@ -39,6 +39,9 @@ GEC-1 mandates comprehensive documentation of software and hardware components a
 
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to EN 18031. To start, we currently offer the following resource that you may find useful:
+- **[NEW!🎉] EN 18031 & RED Cybersecurity Ultimate Guide for IoT Manufacturers**
+    - https://medium.zealience.com/en-18031-red-cybersecurity-ultimate-guide-for-iot-manufacturers-bc57daad0be4
+    - This is the most comprehensive article you can find online about what the RED DA and EN 18031 are and how to apply them
 - GEC-1: Everything You Need to Know to Ace It
     - https://zealience.com/resource-hub/gec-1-everything-you-need-to-know
     - This article provides actionable strategies to meet GEC-1
