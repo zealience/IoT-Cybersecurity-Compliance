@@ -29,7 +29,7 @@ In this repository, you will find the following contents:
 📂 **EN18031-TestPlan**
 - Templates for EN 18031-1 and -2 Test Plans, which will aid you in your assessment and testing procedures
 
-## [NEW!🎉] You Can Now Ask Questions <a name='questions'></a>
+## You Can Now Ask Questions <a name='questions'></a>
 Would you like an EN 18031 expert, Dr. Guillaume Dupont, to answer your specific questions? If you have inquiries about this repository, EN 18031, RED DA, or CRA, you can head to the ["Discussions"](https://github.com/zealience/IoT-Cybersecurity-Compliance/discussions) section at the top of this repository. He will do his best to respond to your questions in a timely manner.
 
 "Discussions" is a community space where anyone on GitHub can ask and answer questions and share ideas. Feel free to use it as you wish, as long as your contributions are polite and beneficial for everyone. If you can answer other people's questions, that will be amazing too! Thank you for being a part of the community in advance 😊
@@ -39,22 +39,29 @@ GEC-1 mandates comprehensive documentation of software and hardware components a
 
  ## Further Resources <a name='res'></a>
 We are planning to continuously add more documentation on our website to assist you with your self-assessment procedures related to EN 18031. To start, we currently offer the following resource that you may find useful:
-- **[NEW!🎉] EN 18031 & RED Cybersecurity Ultimate Guide for IoT Manufacturers**
+- **EN 18031 & RED Cybersecurity Ultimate Guide for IoT Manufacturers**
     - https://medium.zealience.com/en-18031-red-cybersecurity-ultimate-guide-for-iot-manufacturers-bc57daad0be4
     - This is the most comprehensive article you can find online about what the RED DA and EN 18031 are and how to apply them
-- GEC-1: Everything You Need to Know to Ace It
+    - [French version available](https://medium.zealience.com/guide-de-conformit%C3%A9-en-18031-red-pour-les-fabricants-diot-a8ac7d49fc14)
+- **How to Demonstrate Best Practice Cryptography according to EN 18031**
+    - https://medium.zealience.com/en-18031-how-to-demonstrate-best-practice-cryptography-0b13d3945ccf
+    - This article explains how to document that the cryptography you used is "best practice"
+- **EN 18031: Why Outdated Documentation Puts You at Risk With Market Surveillance Authorities**
+    - https://medium.zealience.com/en-18031-why-outdated-documentation-puts-you-at-risk-with-market-surveillance-authorities-47ee8ad17679
+    - This article explains how to maintain compliance by keeping the EN 18031 technical documentation up to date
+- **GEC-1: Everything You Need to Know to Ace It**
     - https://zealience.com/resource-hub/gec-1-everything-you-need-to-know
-    - This article provides actionable strategies to meet GEC-1
-- What Are Network Assets?
+    - This article provides actionable strategies to meet GEC-1. It is not only relevant for the RED DA, but also for the CRA
+- **What Are Network Assets?**
     - https://zealience.com/resource-hub/what-are-network-assets
     - This article helps you identify network assets in your device
-- What Are Security Assets?
+- **What Are Security Assets?**
     - https://zealience.com/resource-hub/what-are-security-assets
     - This article helps you identify security assets in your device
-- What Are Privacy Assets?
+- **What Are Privacy Assets?**
     - https://zealience.com/resource-hub/what-are-privacy-assets
     - This article helps you identify privacy assets in your device
-- What Are External Interfaces?
+- **What Are External Interfaces?**
     - https://zealience.com/resource-hub/what-are-external-interfaces
     - This article explains what external interfaces and helps you identify them in your device
 
